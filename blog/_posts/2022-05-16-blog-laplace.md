@@ -180,7 +180,7 @@ NRM= function(init, f, epsilon){
 }
 ```
 
-여기서, $$f'(\theta) = 0$$의 해를 구하기 위해  $$f$$에 대한 2차 도함수, f''(\theta)를 구해야 한다. 이는 `numDeriv` 패키지의 `genD` 함수로 수치적으로 계산한다. 
+여기서, $$f'(\theta) = 0$$의 해를 구하기 위해  $$f$$에 대한 2차 도함수, $$f''(\theta)$$를 구해야 한다. 이는 `numDeriv` 패키지의 `genD` 함수로 수치적으로 계산한다. 
 
 ``` r
 result=NRM(0.9,df,1e-32)
