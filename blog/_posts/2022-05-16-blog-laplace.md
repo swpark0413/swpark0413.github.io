@@ -142,7 +142,7 @@ $$
 
 <br>
 
-$p(\theta \lvert D)$의 비정규화 밀도함수 $f(\theta)$와 밀도함수의 1차 미분한  $f'(\theta)$에 대한 분포 형태는 다음과 같다.
+$$p(\theta \lvert D)$$의 비정규화 밀도함수 $$f(\theta)$$와 밀도함수의 1차 미분한  $$f'(\theta)$$에 대한 분포 형태는 다음과 같다.
 
 ``` r
 f=function(x,a=1,b=1){
