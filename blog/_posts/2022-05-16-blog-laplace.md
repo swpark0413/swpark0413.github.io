@@ -98,7 +98,7 @@ $$
 다변량 분포도 일변량과 동일하게 적용하면 된다. 모수 $$\boldsymbol{\theta}$$가 $$K$$차원에 있다고 하자.$$(\boldsymbol{\theta} \in \mathbb{R}^{K})\,\,$$ 그리고 $$\boldsymbol{\theta}$$에 대한 사후분포는 $$p(\boldsymbol{\theta} \lvert D) = (1/Z)e^{\,\log f(\boldsymbol{\theta})}$$이다.
 
 
-지수 부분의 $\log f(\boldsymbol{\theta})$를 근사하면 다음과 같다.
+지수 부분의 $$\log f(\boldsymbol{\theta})$$를 근사하면 다음과 같다.
 
 $$
 \begin{gathered}
