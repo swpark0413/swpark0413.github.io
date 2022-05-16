@@ -29,9 +29,11 @@ Learning Algorithms* 을 참고하였다.
 <br>
 
 $\theta$ 에 대한 일변량 분포에 대해서 생각해보자.
+
 $$
 p(\theta | D )  = \frac{1}{Z} p(\theta, D) = \frac{1}{Z} p(D | \theta) p(\theta) =  \frac{1}{Z} f(\theta).
 $$
+
 여기서, $Z$는 정규화 상수다. 
 $$ Z = \int p(\theta, D)\, d \theta = \int f(\theta)\,d\theta$$
 
@@ -205,9 +207,8 @@ sigma
 <br>
 
 그래프를 그려보면 사후분포 Beta(119,12)와 라플라스 근사를 이용하여
-도출된 정규분포
-$$ \mathcal{N}(0.9147287,
-6.0465209^{-4}) $$ 형태는 매우 비슷한 것을 알 수 있다.
+도출된 정규분포 $\mathcal{N}(0.9147287,
+6.0465209^{-4})$ 형태는 매우 비슷한 것을 알 수 있다.
 
 ``` r
 x = seq(0,1,by=0.001)
