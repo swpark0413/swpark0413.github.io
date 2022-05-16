@@ -26,13 +26,13 @@ Learning Algorithms* 을 참고하였다.
 #### Univariate Case
 
 
-$$\theta$$에 대한 일변량 분포에 대해서 생각해보자.
+$$\theta$$에 대한 일변량 분포에 대해서 생각해보자. 사전 분포 $$p(\theta)$$, 가능도 함수 $$p(D  \lvert  \theta)$$가 주어졌을 때, 사후 분포는
 
 $$
-p(\theta \lvert D )  = \frac{1}{Z} p(\theta, D) = \frac{1}{Z} p(D | \theta) p(\theta) =  \frac{1}{Z} f(\theta).
+p(\theta \lvert D )  = \frac{1}{Z} p(D | \theta) p(\theta) =  \frac{1}{Z} f(\theta).
 $$
 
-여기서, $$Z$$는 정규화 상수다. 
+이다. 여기서, $$Z$$는 정규화 상수다. 
 
 $$ 
 Z = \int p(\theta, D)\, d \theta = \int f(\theta)\,d\theta
