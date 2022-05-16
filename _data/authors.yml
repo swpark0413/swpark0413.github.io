@@ -8,9 +8,11 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hello Everyone,
+    Hello Everyone, 
+
     My name is Sewon Park and I am a Data Science Enthusiast.
-    Thank you so much for taking your precious time to read this blog. Feel free to point out any mistake(I’m a learner after all) and provide respective feedback or leave a comment.
+
+    Thank you so much for taking your precious time to read this blog. Feel free to point out any mistake (I’m a learner after all) and provide respective feedback or leave a comment.
 
   # This photo will be used in the about section
   picture:
