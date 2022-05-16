@@ -161,7 +161,9 @@ defaults:
 
 kramdown:
   math_engine:         katex
-  math_engine_opts:    {}
+  math_engine_opts:
+    preview:           true
+    preview_as_code:   true
   footnote_backlink:   '&#x21a9;&#xfe0e;'
 
 
