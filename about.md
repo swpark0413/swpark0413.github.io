@@ -9,7 +9,7 @@ hide_description: true
 
 # About
 
-<!-- author -->
+<!--author-->
 
 <!-- ## Hydejack -->
 
