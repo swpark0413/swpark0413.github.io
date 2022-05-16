@@ -1,17 +1,20 @@
-Laplace Approximation
-================
+---
+layout: post
+title: 라플라스 근사 (Laplace Approximation)
+# description: >
+#   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+sitemap: false
+hide_last_modified: true
+---
 
 <br>
 
 > 본 글은 *Peter D.Hoff*의 *A First Course in Bayesian Statistical
 Methods* 와 *David J.C. MacKay*의 *Informationm Theory, Inference, and
-Learning Algorithms* 을 참고하였다. <br> </br>
+Learning Algorithms* 을 참고하였다. 
 
-<br>
+<br> 
 
-본 글은 *Peter D.Hoff*의 *A First Course in Bayesian Statistical Methods* 와 *David J.C. MacKay*의 *Informationm Theory, Inference, and Learning Algorithms* 을 참고하였다. 
-<br>
-</br>
 
 ### Method
 
@@ -203,8 +206,8 @@ sigma
 
 그래프를 그려보면 사후분포 Beta(119,12)와 라플라스 근사를 이용하여
 도출된 정규분포
-$\mathcal{N}(0.9147287,
-6.0465209^{-4})$ 형태는 매우 비슷한 것을 알 수 있다.
+$$ \mathcal{N}(0.9147287,
+6.0465209^{-4}) $$ 형태는 매우 비슷한 것을 알 수 있다.
 
 ``` r
 x = seq(0,1,by=0.001)
