@@ -38,13 +38,13 @@ $$
 Z = \int p(\theta, D)\, d \theta = \int f(\theta)\,d\theta
 $$
 
-라플라스 근사는  $$p(\theta \lvert D )$$를 평균이 $$\theta_0$$이고, 분산이 $$A^{-1}$$인 정규분포로 근사하는 것이다.
+라플라스 근사는 $$p(\theta \lvert D )$$를 평균이 $$\theta_0$$이고, 분산이 $$A^{-1}$$인 정규분포로 근사하는 것이다.
 
 $$
 p(\theta | D ) \approx \mathcal{N}(\theta\,; \theta_0, A^{-1} )
 $$
 
-그러므로 $\theta_0$와 $A^{-1}$를 알아야 한다. 구하는 방법은 다음과 같다.
+그러므로 $$\theta_0$$와 $$A^{-1}$$를 알아야 한다. 구하는 방법은 다음과 같다.
 
 <br>
 
