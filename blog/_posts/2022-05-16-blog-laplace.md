@@ -156,13 +156,11 @@ df=function(x,a=1,b=1){
 
 <img src="https://swpark0413.github.io/assets/img/blog/Laplace_files/figure-gfm/density-1.png" style="display: block; margin: auto;" />
 
-두 그림을 통해서 밀도함수의 최빈값은 대략 0.9 근처에 있는 것을 알 수
-있다. 최빈값을 구하기 위해서는 직접 계산하는 방법 또는 뉴턴-랩슨 방법을
-이용하여 수치적으로 구할 수 있다. 뉴턴-랩슨 함수는 다음과 같다.
+두 그림을 통해서 밀도함수의 최빈값은 대략 0.9 근처에 있는 것을 알 수 있다. 최빈값을 구하기 위해서는 직접 계산하는 하거나 [뉴턴-랩슨 방법 (Newton–Raphson method)](https://namu.wiki/w/%EB%89%B4%ED%84%B4-%EB%9E%A9%EC%8A%A8%20%EB%B0%A9%EB%B2%95)을 이용하여 수치적으로 구할 수 있다. `R`로 구현한 뉴턴-랩슨 함수는 다음과 같다.
 
 ``` r
-NRM= function(init, f,epsilon){
-  library(numDeriv)
+library(numDeriv)
+NRM= function(init, f, epsilon){
     x=init
     fx=f(x)
     fpx=genD(func = f, x = x)$D[1]
@@ -181,6 +179,8 @@ NRM= function(init, f,epsilon){
     return(list(root=xf,iteration=iter,Xs=proc))
 }
 ```
+
+여기서, $$f'(\theta) = 0$$의 해를 구하기 위해  $$f$$에 대한 2차 도함수, f''(\theta)를 구해야 한다. 이는 `numDeriv` 패키지의 `genD` 함수로 수치적으로 계산한다. 
 
 ``` r
 result=NRM(0.9,df,1e-32)
