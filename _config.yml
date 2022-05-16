@@ -160,7 +160,7 @@ defaults:
         type:          WebPage
 
 kramdown:
-  math_engine:         katex
+  math_engine:         mathjax
   math_engine_opts:
     preview:           true
     preview_as_code:   true
