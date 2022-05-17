@@ -7,12 +7,21 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  # Hello Everyone, 
+  # My name is Sewon Park and I am a Data Science Enthusiast.
+  # Thank you so much for taking your precious time to read this blog. Feel free to point out any mistake (I am a learner after all) and provide respective feedback or leave a comment.
   about:             |
-    Hello Everyone, 
+    안녕하세요. 
+    
+    저는 데이터 사이언스와 관련된 모든 것을 좋아하고 궁금해하는 사람 중에 한명입니다.
+    특히, 궁금한 것들을 이론적으로 배우고, 다시 정리해서 구현해보는 것을 좋아합니다.
+    아직 모르는 것이 많아 배우고 싶은 것들이 매우 많습니다.
+    
+    블로그 내용 중에 잘못된 내용(또는 오류)들이 있을 수 있으니 이점 감안해서 참고해주세요.
+    글에 대한 피드백은 언제든지 환영입니다. :)
 
-    My name is Sewon Park and I am a Data Science Enthusiast.
-
-    Thank you so much for taking your precious time to read this blog. Feel free to point out any mistake (I am a learner after all) and provide respective feedback or leave a comment.
+    감사합니다.
+  
 
   # This photo will be used in the about section
   picture:
