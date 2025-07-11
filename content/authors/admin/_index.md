@@ -183,4 +183,12 @@ interests:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an associate professor in the Department of Statistics at Sungkyunkwan University (SKKU). Before joining SKKU, I was an assistant professor in the Department of Statistics at Inha University.
+
+
+I was a postdoctoral research associate in the Department of Applied and Computational Mathematics and Statistics at The University of Notre Dame, working with Prof. Lizhen Lin. I received my Ph.D. degree in Statistics at Seoul National University, under the guidance of Prof. Jaeyong Lee. I obtained a Bachelor’s degree from Seoul National University.
+
+
+My research interests broadly lie in the theory, methodology and application of Bayesian statistics. I have worked on high-dimensional mean and covariance estimations, semi-parametric Bayesian models, differential equation models and sequential Monte Carlo methods. I am currently interested in developing scalable Bayesian methods for large-scale datasets and deriving their theoretical properties.
+
+
