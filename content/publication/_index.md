@@ -6,8 +6,11 @@ cms_exclude: true
 view: citation
 
 # Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+# banner:
+#   caption: ''
+#   image: ''
 ---
+
+- Publications are categorized using the following tags: [W#] for working papers, [J#] for journal articles, and [C#] for conference papers.
+- Author roles are indicated as follows: * denotes the corresponding author, and † indicates authors who contributed equally to the work.
 
