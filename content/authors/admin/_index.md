@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bayesian Statistics
+  - Synthetic Data Generation
+  - Anomaly Detection
 
 education:
   - area: PhD Artificial Intelligence
