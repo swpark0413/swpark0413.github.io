@@ -38,13 +38,13 @@ profiles:
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/swpakr0413
+    url: https://github.com/swpark0413
   # - icon: brands/linkedin
     # url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-6811-4632
 
 interests:
   - Bayesian Statistics
