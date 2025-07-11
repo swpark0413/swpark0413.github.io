@@ -1,5 +1,10 @@
 ---
 title: Publications
+view: article-grid
+---
+
+<!-- ---
+title: Publications
 cms_exclude: true
 
 # View.
@@ -9,4 +14,5 @@ view: citation
 banner:
   caption: ''
   image: ''
----
+--- -->
+
