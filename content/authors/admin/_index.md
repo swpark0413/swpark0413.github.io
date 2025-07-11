@@ -46,14 +46,14 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-Research interests:
+interests:
   - Bayesian Statistics
   - Synthetic Data Generation
   - Anomaly Detection
 
-education:
-  - area: PhD in Statistics
-    institution: Seoul National University
+# education:
+#   - area: PhD in Statistics
+#     institution: Seoul National University
     # date_start: 2015-03-01
     # date_end: 2021-08-31
     # summary: |
@@ -72,9 +72,9 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Economics and Applied Statistics (Double Major)
-    institution: Yonsei University 
-    # date_start: 2016-01-01
+  # - area: BSc Economics and Applied Statistics (Double Major)
+  #   institution: Yonsei University 
+  #   # date_start: 2016-01-01
     # date_end: 2020-12-31
     # summary: |
     #   GPA: 3.4/4.0
