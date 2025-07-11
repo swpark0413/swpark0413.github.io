@@ -24,7 +24,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Sookmyong Woman's Univiersity
+  - name: Sookmyung Women's Univiersity
     url: https://openai.com/
 
 # Social network links
@@ -37,8 +37,8 @@ profiles:
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
-  # - icon: brands/github
-  #   url: https://github.com/gcushen
+  - icon: brands/github
+    url: https://github.com/swpakr0413
   # - icon: brands/linkedin
     # url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -183,12 +183,11 @@ interests:
 
 ## About Me
 
-I am an associate professor in the Department of Statistics at Sungkyunkwan University (SKKU). Before joining SKKU, I was an assistant professor in the Department of Statistics at Inha University.
+I am an Assistant Professor in the Department of Statistics at Sookmyung Women’s University. Prior to joining the university, I worked as a Senior Engineer at Samsung SDS.
 
+I received my Ph.D. in Statistics from Seoul National University under the supervision of Professor Jaeyong Lee. I earned my Bachelor’s degree in Economics and Applied Statistics (double major) from Yonsei University, Mirae Campus.
 
-I was a postdoctoral research associate in the Department of Applied and Computational Mathematics and Statistics at The University of Notre Dame, working with Prof. Lizhen Lin. I received my Ph.D. degree in Statistics at Seoul National University, under the guidance of Prof. Jaeyong Lee. I obtained a Bachelor’s degree from Seoul National University.
-
-
-My research interests broadly lie in the theory, methodology and application of Bayesian statistics. I have worked on high-dimensional mean and covariance estimations, semi-parametric Bayesian models, differential equation models and sequential Monte Carlo methods. I am currently interested in developing scalable Bayesian methods for large-scale datasets and deriving their theoretical properties.
+My research interests lie at the intersection of Bayesian statistics and deep learning, with a particular focus on modeling tabular and time-series data. I have expertise in nonparametric Bayesian methods, synthetic data generation, time-series anomaly detection, and missing data analysis. My current work involves developing deep learning approaches for insider threat detection, as well as exploring high-dimensional statistical methods and dimension reduction techniques, such
+as the envelope models.
 
 
