@@ -3,7 +3,7 @@ title: "Korean speech recognition using deep learning (in Korean)"
 authors:
 - Suji Lee
 - Sukjin Han
-- Sewon Park*
+- "**Sewon Park** *"
 - Kyeongwon Lee
 - Jaeyong Lee
 date: "2025-07-12T00:00:00Z"
