@@ -3,10 +3,10 @@ title: "Korean speech recognition using deep learning (in Korean)"
 authors:
 - Suji Lee
 - Sukjin Han
-- "**Sewon Park** *"
+- admin "*"
 - Kyeongwon Lee
 - Jaeyong Lee
-date: "2025-07-12T00:00:00Z"
+date: "2019-04-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -45,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit'
+  caption: ""
   focal_point: ""
   preview_only: false
 
