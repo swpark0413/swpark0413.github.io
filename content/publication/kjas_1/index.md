@@ -18,7 +18,7 @@ publishDate: "2019-04-30T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* The Korean Journal of Applied Statistics*, 32 (2), pp. 213-227"
+publication: "*The Korean Journal of Applied Statistics*, 32 (2)"
 publication_short: ""
 
 abstract: In this paper, we propose an end-to-end deep learning model combining Bayesian neural network with Korean speech recognition. In the past, Korean speech recognition was a complicated task due to the excessive parameters of many intermediate steps and needs for Korean expertise knowledge. Fortunately, Korean speech recognition becomes manageable with the aid of recent breakthroughs in "End-to-end" model. The end-to-end model decodes mel-frequency cepstral coefficients directly as text without any intermediate processes. Especially, Connectionist Temporal Classification loss and Attention based model are a kind of the end-to-end. In addition, we combine Bayesian neural network to implement the end-to-end model and obtain Monte Carlo estimates. Finally, we carry out our experiments on the "WorimalSam" online dictionary dataset. We obtain 4.58% Word Error Rate showing improved results compared to Google and Naver API.
@@ -45,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit'
   focal_point: ""
   preview_only: false
 
