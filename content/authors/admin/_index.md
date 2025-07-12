@@ -25,7 +25,7 @@ role: Assistant Professor
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Sookmyung Women's Univiersity
-    url: https://openai.com/
+    url: https://stat.sookmyung.ac.kr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
