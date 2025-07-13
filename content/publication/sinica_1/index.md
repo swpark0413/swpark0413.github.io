@@ -1,5 +1,5 @@
 ---
-title: "Bayesian Nonparametric Classification for Incomplete Data With a High Missing Rate: an Application to Semiconductor Manufacturing Data"
+title: "Lévy Adaptive BSpline Regression via Overcomplete Systems"
 authors:
 - admin
 - Kyeongwon Lee
@@ -9,11 +9,11 @@ authors:
 author_notes:
 
 
-date: "2023-02-23T00:00:00Z"
+date: "2023-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-02-23T00:00:00Z"
+publishDate: "2023-10-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,10 +21,10 @@ publishDate: "2023-02-23T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Semiconductor Manufacturing*, 36 (2)"
+publication: "*Statistica Sinica*, 33 (4)"
 publication_short: ""
 
-abstract: During the semiconductor manufacturing process, predicting the yield of the semiconductor is an important problem. Early detection of defective product production in the manufacturing process can save huge production cost. The data generated from the semiconductor manufacturing process have characteristics of non-normal distributions, random missing patterns and high missing rate, which complicate the prediction of the yield. We propose the Dirichlet Process - Naive Bayes model (DPNB) that can simultaneously impute missing values and address classification problems. Since the DPNB is based on the infinite Gaussian mixture model, it can estimate complex data distributions and make predictions for missing datasets with some missing patterns due to nice properties of the Gaussian distribution. The DPNB also performs well for high missing rates since it uses all information of observed components. Experiments on various real datasets including semiconductor manufacturing data show that the DPNB has better performance than state-of-the-art methods in terms of predicting missing values and target variables as percentage of missing values increases.
+abstract: Estimating functions with varying degrees of smoothness is a challenging problem in nonparametric function estimation. In this paper, we propose the Lévy adaptive B-Spline regression (LABS) model, an extension of the Lévy adaptive regression kernels (LARK) models, for estimating functions with varying degrees of smoothness. The LABS model is a LARK model with B-spline basis functions as generating kernels. The B-spline basis functions consist of piecewise k-degree polynomials with k−1 continuous derivatives, and can systematically express functions with varying degrees of smoothness. By changing the order of the B-spline basis, the LABS model systematically adapts to the smoothness of the functions, for example, jump discontinuities, sharp peaks, and so on. The results of simulation studies and real-data examples show that the proposed model captures smooth areas, jumps, and sharp peaks of functions. The proposed model also perform best in almost all examples. Finally, we provide theoretical results that the mean function for the LABS model belongs to certain Besov spaces, based on the order of the B-spline basis, and that the prior of the model has full support on the Besov spaces.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://ieeexplore.ieee.org/document/10050554'
+url_pdf: 'https://www3.stat.sinica.edu.tw/sstest/j33n4/J33N418/J33N418.html'
 url_code: ''
 url_dataset: ''
 url_poster: ''

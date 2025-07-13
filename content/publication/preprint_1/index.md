@@ -1,15 +1,16 @@
 ---
-title: "Lévy Adaptive BSpline Regression via Overcomplete Systems"
+title: "Eigenstructure inference for high-dimensional covariance with generalized shrinkage inverse-Wishart prior"
 authors:
+- Seongmin Kim
+- Kwangmin Lee
 - admin
-- Hee-Seok Oh
 - Jaeyong Lee
 
-date: "2023-10-01T00:00:00Z"
+date: "2025-07-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-10-01T00:00:00Z"
+publishDate: "2025-07-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,7 +21,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Estimating functions with varying degrees of smoothness is a challenging problem in nonparametric function estimation. In this paper, we propose the Lévy adaptive B-Spline regression (LABS) model, an extension of the Lévy adaptive regression kernels (LARK) models, for estimating functions with varying degrees of smoothness. The LABS model is a LARK model with B-spline basis functions as generating kernels. The B-spline basis functions consist of piecewise k-degree polynomials with k − 1 continuous derivatives, and can systematically express functions with varying degrees of smoothness. By changing the order of the B-spline basis, the LABS model systematically adapts to the smoothness of the functions, for example, jump discontinuities, sharp peaks, and so on. The results of simulation studies and real-data examples show that the proposed model captures smooth areas, jumps, and sharp peaks of functions. The proposed model also perform best in almost all examples. Finally, we provide theoretical results that the mean function for the LABS model belongs to certain Besov spaces, based on the order of the B-spline basis, and that the prior of the model has full support on the Besov spaces.
+abstract: In multivariate statistics, estimating the covariance matrix is essential for understanding the interdependence among variables. In high-dimensional settings, where the number of covariates increases with the sample size, it is well known that the eigenstructure of the sample covariance matrix is inconsistent. The inverse-Wishart prior, a standard choice for covariance estimation in Bayesian inference, also suffers from posterior inconsistency. To address the issue of eigenvalue dispersion in high-dimensional settings, the shrinkage inverse-Wishart (SIW) prior has recently been proposed. Despite its conceptual appeal and empirical success, the asymptotic justification for the SIW prior has remained limited. In this paper, we propose a generalized shrinkage inverse-Wishart (gSIW) prior for high-dimensional covariance modeling. By extending the SIW framework, the gSIW prior accommodates a broader class of prior distributions and facilitates the derivation of theoretical properties under specific parameter choices. In particular, under the spiked covariance assumption, we establish the asymptotic behavior of the posterior distribution for both eigenvalues and eigenvectors by directly evaluating the posterior expectations for two sets of parameter choices. This direct evaluation provides insights into the large-sample behavior of the posterior that cannot be obtained through general posterior asymptotic theorems. Finally, simulation studies illustrate that the proposed prior provides accurate estimation of the eigenstructure, particularly for spiked eigenvalues, achieving narrower credible intervals and higher coverage probabilities compared to existing methods. For spiked eigenvectors, the performance is generally comparable to that of competing approaches, including the sample covariance
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -33,8 +34,8 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: 'https://www3.stat.sinica.edu.tw/sstest/j33n4/J33N418/J33N418.html'
-url_code: ''
+url_pdf: 'https://arxiv.org/abs/2505.20668'
+url_code: 'https://github.com/swpark0413/besiw'
 url_dataset: ''
 url_poster: ''
 url_project: ''
