@@ -1,28 +1,27 @@
 ---
-title: 'SOS: Score-based oversampling for tabular data'
+title: 'Possibility for Proactive Anomaly Detection'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Jayoung Kim
-  - Chaejeong Lee
-  - Yehjin Shin
+  - Jinsung Jeon
+  - Jaehyeon Park
   - admin
+  - Jeongwhan Choi
   - Minjung Kim
   - Noseong Park
-  - Jihoon Cho
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-08-14T00:00:00Z'
+date: '2025-04-27T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-08-14T00:00:00Z'
+publishDate: '2025-04-27T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -30,10 +29,10 @@ publishDate: '2022-08-14T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
-publication_short: In *KDD 2022*
+publication: "In Proceedings of the ICLR 2025 Workshop on I Can't Believe It's Not Better: Challenges in Applied Deep Learning"
+publication_short: In *ICLR 2025 Workshop on ICBINB*
 
-abstract: 'Score-based generative models (SGMs) are a recent breakthrough in generating fake images. SGMs are known to surpass other generative models, e.g., generative adversarial networks (GANs) and variational autoencoders (VAEs). Being inspired by their big success, in this work, we fully customize them for generating fake tabular data. In particular, we are interested in oversampling minor classes since imbalanced classes frequently lead to sub-optimal training outcomes. To our knowledge, we are the first presenting a score-based tabular data oversampling method. Firstly, we re-design our own score network since we have to process tabular data. Secondly, we propose two options for our generation method: the former is equivalent to a style transfer for tabular data and the latter uses the standard generative policy of SGMs. Lastly, we define a fine-tuning method, which further enhances the oversampling quality. In our experiments with 6 datasets and 10 baselines, our method outperforms other oversampling methods in all cases.'
+abstract: 'Time-series anomaly detection, which detects errors and failures in a workflow, is one of the most important topics in real-world applications. The purpose of time-series anomaly detection is to reduce potential damages or losses. However, existing anomaly detection models detect anomalies through the error between the model output and the ground truth (observed) value, which makes them impractical. In this work, we present a \textit{proactive} approach for time-series anomaly detection based on a time-series forecasting model specialized for anomaly detection and a data-driven anomaly detection model. Our proactive approach establishes an anomaly threshold from training data with a data-driven anomaly detection model, and anomalies are subsequently detected by identifying predicted values that exceed the anomaly threshold. In addition, we extensively evaluated the model using four anomaly detection benchmarks and analyzed both predictable and unpredictable anomalies. We attached the source code as supplementary material.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -49,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/10.1145/3534678.3539454'
+url_pdf: 'https://openreview.net/pdf?id=w63aCqNRFp'
 url_code: 'https://github.com/JayoungKim408/SOS'
 url_dataset: ''
 url_poster: ''
