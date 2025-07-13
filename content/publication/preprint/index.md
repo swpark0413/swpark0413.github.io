@@ -1,5 +1,5 @@
 ---
-title: "Eigenstructure inference for high-dimensional covariance with generalized shrinkage inverse-Wishart prior Working paper"
+title: "Eigenstructure inference for high-dimensional covariance with generalized shrinkage inverse-Wishart prior (submitted)"
 authors:
 - Seongmin Kim
 - Kwangmin Lee
@@ -64,12 +64,12 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
-# ---
+---
 
-# This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+<!-- # This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs. -->
 
-# {{% callout note %}}
+<!-- # {{% callout note %}}
 # Create your slides in Markdown - click the *Slides* button to check out the example.
-# {{% /callout %}}
+# {{% /callout %}} -->
 
-# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
