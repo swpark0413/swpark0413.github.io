@@ -1,16 +1,19 @@
 ---
-title: "An example journal article2"
+title: "Bayesian Nonparametric Classification for Incomplete Data With a High Missing Rate: an Application to Semiconductor Manufacturing Data"
 authors:
 - admin
-- Robert Ford*
+- Kyeongwon Lee
+- Da-Eun Jeong
+- Heung-Kook Ko
+- Jaeyong Lee
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+
+
+date: "2023-02-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-02-23T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +21,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*IEEE Transactions on Semiconductor Manufacturing*, 36 (2)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: During the semiconductor manufacturing process, predicting the yield of the semiconductor is an important problem. Early detection of defective product production in the manufacturing process can save huge production cost. The data generated from the semiconductor manufacturing process have characteristics of non-normal distributions, random missing patterns and high missing rate, which complicate the prediction of the yield. We propose the Dirichlet Process - Naive Bayes model (DPNB) that can simultaneously impute missing values and address classification problems. Since the DPNB is based on the infinite Gaussian mixture model, it can estimate complex data distributions and make predictions for missing datasets with some missing patterns due to nice properties of the Gaussian distribution. The DPNB also performs well for high missing rates since it uses all information of observed components. Experiments on various real datasets including semiconductor manufacturing data show that the DPNB has better performance than state-of-the-art methods in terms of predicting missing values and target variables as percentage of missing values increases.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Bayesian Statistics
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://ieeexplore.ieee.org/document/10050554'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
