@@ -49,7 +49,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://openreview.net/pdf?id=w63aCqNRFp'
-url_code: 'https://github.com/JayoungKim408/SOS'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

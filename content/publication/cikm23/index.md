@@ -6,16 +6,20 @@ title: 'MadSGM: Multivariate Anomaly Detection with Score-based Generative Model
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Haksoo Lim
-- Sewon Park†
+- admin
 - Minjung Kim
 - Jaehoon Lee
 - Seonkyu Lim
 - Noseong Park
 
 # Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
+author_notes:
+  - ''
+  - '†'
+  - ''
+  - ''
+  - ''
+  - ''
 
 date: '2023-10-21T00:00:00Z'
 doi: ''
