@@ -1,28 +1,27 @@
 ---
-title: 'SOS: Score-based oversampling for tabular data'
+title: 'MadSGM: Multivariate Anomaly Detection with Score-based Generative Models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Jayoung Kim
-  - Chaejeong Lee
-  - Yehjin Shin
-  - admin
-  - Minjung Kim
-  - Noseong Park
-  - Jihoon Cho
+- Haksoo Lim
+- Sewon Park†
+- Minjung Kim
+- Jaehoon Lee
+- Seonkyu Lim
+- Noseong Park
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-08-14T00:00:00Z'
+date: '2023-10-21T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-08-14T00:00:00Z'
+publishDate: '2023-10-21T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -30,10 +29,10 @@ publishDate: '2022-08-14T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
-publication_short: In *KDD 2022*
+publication: In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management
+publication_short: In *CIKM 2023*
 
-abstract: 'Score-based generative models (SGMs) are a recent breakthrough in generating fake images. SGMs are known to surpass other generative models, e.g., generative adversarial networks (GANs) and variational autoencoders (VAEs). Being inspired by their big success, in this work, we fully customize them for generating fake tabular data. In particular, we are interested in oversampling minor classes since imbalanced classes frequently lead to sub-optimal training outcomes. To our knowledge, we are the first presenting a score-based tabular data oversampling method. Firstly, we re-design our own score network since we have to process tabular data. Secondly, we propose two options for our generation method: the former is equivalent to a style transfer for tabular data and the latter uses the standard generative policy of SGMs. Lastly, we define a fine-tuning method, which further enhances the oversampling quality. In our experiments with 6 datasets and 10 baselines, our method outperforms other oversampling methods in all cases.'
+abstract: 'The time-series anomaly detection is one of the most fundamental tasks for time-series. Unlike the time-series forecasting and classification, the time-series anomaly detection typically requires unsupervised (or self-supervised) training since collecting and labeling anomalous observations are difficult. In addition, most existing methods resort to limited forms of anomaly measurements and therefore, it is not clear whether they are optimal in all circumstances. To this end, we present a multivariate time-series anomaly detector based on score-based generative models, called MadSGM, which considers the broadest ever set of anomaly measurement factors: i) reconstruction-based, ii) density-based, and iii) gradient-based anomaly measurements. We also design a conditional score network and its denoising score matching loss for the time-series anomaly detection. Experiments on five real-world benchmark datasets illustrate that MadSGM achieves the most robust and accurate predictions.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -49,8 +48,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/10.1145/3534678.3539454'
-url_code: 'https://github.com/JayoungKim408/SOS'
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3583780.3614956'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
