@@ -29,7 +29,7 @@ abstract: In multivariate statistics, estimating the covariance matrix is essent
 tags:
 - Bayesian Statistics
 
-featured: true
+featured: false
 
 links:
 # - name: Custom Link
