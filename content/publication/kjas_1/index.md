@@ -3,9 +3,17 @@ title: "Korean speech recognition using deep learning (in Korean)"
 authors:
 - Suji Lee
 - Sukjin Han
-- Sewon Park*
+- admin
 - Kyeongwon Lee
 - Jaeyong Lee
+
+author_notes:
+  - ''
+  - ''
+  - '*'
+  - ''
+  - ''
+
 date: "2019-04-30T00:00:00Z"
 doi: ""
 
