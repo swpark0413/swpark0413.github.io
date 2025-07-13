@@ -1,5 +1,5 @@
 ---
-title: "Eigenstructure inference for high-dimensional covariance with generalized shrinkage inverse-Wishart prior / Working paper"
+title: "Eigenstructure inference for high-dimensional covariance with generalized shrinkage inverse-Wishart prior Working paper"
 authors:
 - Seongmin Kim
 - Kwangmin Lee
@@ -34,7 +34,7 @@ featured: true
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://arxiv.org/abs/2505.20668
+url_pdf: 'https://arxiv.org/abs/2505.20668'
 url_code: 'https://github.com/swpark0413/besiw'
 url_dataset: ''
 url_poster: ''
