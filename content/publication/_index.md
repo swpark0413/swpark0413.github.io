@@ -11,7 +11,7 @@ view: citation
 #   image: ''
 ---
 
-<small> * = corresponding author, † = authors contributed equally to the work </small>
+<small> * = corresponding author, † = equal contribution </small>
 <!-- - <small>Publications are categorized using the following tags: [W#] for working papers, [J#] for journal articles, and [C#] for conference papers.</small>
 - <small>Author roles are indicated as follows: * denotes the corresponding author, and † indicates authors who contributed equally to the work.</small> -->
 
