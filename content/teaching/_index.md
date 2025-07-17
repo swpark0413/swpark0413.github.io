@@ -7,11 +7,14 @@ type: landing
 # Your landing page sections - add as many different content blocks as you like
 sections:
   - block: markdown
-    content: |
-      ## Teaching
-      - Introduction to Statistics
-      - Bayesian Inference
-      - Deep Learning for Time Series
+    id: Teaching
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      - a
+      - b
+      - c
 ---
 
 
