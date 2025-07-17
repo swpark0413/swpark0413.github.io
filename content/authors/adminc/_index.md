@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Sewon Park
+title: Sewon Park*
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Sewon 
+first_name: Sewon* 
 last_name: Park
 
 # Status emoji
@@ -14,7 +14,7 @@ last_name: Park
 #   icon: ☕️
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
