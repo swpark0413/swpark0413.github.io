@@ -1,6 +1,6 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
+title: '[2025-Fall] Categorical Data Analysis'
+summary: 'Course for undergraduate students'
 date: 2023-10-24
 type: docs
 math: false

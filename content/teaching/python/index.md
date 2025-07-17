@@ -1,6 +1,6 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
+title: '[2025-Fall] Bayesian Statistics'
+summary: 'Course for graduate students'
 date: 2023-10-24
 type: docs
 math: false
