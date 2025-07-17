@@ -3,11 +3,13 @@ title: Teaching
 summary: My courses
 type: landing
 
----
-
 - Introduction to Statistics
 - Bayesian Inference
 - Deep Learning for Time Series
+
+---
+
+
 
 <!-- ---
 title: Teaching
