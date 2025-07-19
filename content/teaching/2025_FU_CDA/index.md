@@ -9,7 +9,6 @@ tags:
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
-
 ## Course Syllabus
 **Instructor:** [Instructor Name]  
 **Email:** [Instructor Email]  
