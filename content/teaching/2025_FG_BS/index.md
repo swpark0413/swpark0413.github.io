@@ -9,132 +9,82 @@ tags:
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
+# Course Syllabus: [Course Title]
+**Instructor:** [Instructor Name]  
+**Email:** [Instructor Email]  
+**Semester:** [Semester / Year]  
+**Class Time & Location:** [Time], [Location]  
+**Office Hours:** [Time or by appointment]
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+---
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+## Course Description
+A brief overview of the course, its objectives, and what students can expect to learn.
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+---
 
-## Video
+## Learning Objectives
+By the end of the course, students will be able to:
+- Objective 1
+- Objective 2
+- Objective 3
+- ...
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
+---
 
-{{< youtube D2vj0WcvH5c >}}
+## Prerequisites
+- Prerequisite 1
+- Prerequisite 2
 
-**Youtube**:
+---
 
-    {{</* youtube w7Ft2ymGmfc */>}}
+## Course Materials
+- **Required Textbook:**  
+  [Title], [Author], [Edition], [Publisher]
+- **Recommended Reading:**  
+  - [Book 1]
+  - [Book 2]
 
-**Bilibili**:
+---
 
-    {{</* bilibili id="BV1WV4y1r7DF" */>}}
+## Grading Policy
+| Component            | Percentage |
+|----------------------|------------|
+| Attendance           | xx%        |
+| Assignments          | xx%        |
+| Midterm Exam         | xx%        |
+| Final Exam           | xx%        |
+| Participation        | xx%        |
 
-**Video file**
+---
 
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
+## Weekly Schedule
 
-    {{</* video src="my_video.mp4" controls="yes" */>}}
+| Week | Topic                         | Readings / Notes           |
+|------|-------------------------------|----------------------------|
+| 1    | Introduction & Overview       | Chapter 1                  |
+| 2    | Topic 1                       | Chapter 2                  |
+| 3    | Topic 2                       | Chapter 3                  |
+| ...  | ...                           | ...                        |
+| N    | Review & Final Exam           |                            |
 
-## Podcast
+---
 
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
+## Assignments
+- **Assignment 1:** [Due Date], [Description]
+- **Assignment 2:** [Due Date], [Description]
+- ...
+  
+---
 
-    {{</* audio src="ambient-piano.mp3" */>}}
+## Policies
+- **Attendance:** [Policy details]
+- **Late Submission:** [Policy details]
+- **Academic Integrity:** [Policy details]
+- **Disability Services:** [Information]
 
-Try it out:
+---
 
-{{< audio src="ambient-piano.mp3" >}}
-
-## Test students
-
-Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
-
-```markdown
-{{</* spoiler text="👉 Click to view the solution" */>}}
-You found me!
-{{</* /spoiler */>}}
-```
-
-renders as
-
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
-
-## Math
-
-Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
-
-To render _inline_ or _block_ math, wrap your LaTeX math with `{{</* math */>}}$...${{</* /math */>}}` or `{{</* math */>}}$$...$${{</* /math */>}}`, respectively.
-
-{{% callout note %}}
-We wrap the LaTeX math in the Hugo Blox _math_ shortcode to prevent Hugo rendering our math as Markdown.
-{{% /callout %}}
-
-Example **math block**:
-
-```latex
-{{</* math */>}}
-$$
-\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
-$$
-{{</* /math */>}}
-```
-
-renders as
-
-{{< math >}}
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-{{< /math >}}
-
-Example **inline math** `{{</* math */>}}$\nabla F(\mathbf{x}_{n})${{</* /math */>}}` renders as {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}.
-
-Example **multi-line math** using the math linebreak (`\\`):
-
-```latex
-{{</* math */>}}
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-{{</* /math */>}}
-```
-
-renders as
-
-{{< math >}}
-
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}
-$$
-
-{{< /math >}}
-
-## Code
-
-Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
-
-
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
-
-renders as
-
-```python
-import pandas as pd
-data = pd.read_csv("data.csv")
-data.head()
-```
-
-## Inline Images
-
-```go
-{{</* icon name="python" */>}} Python
-```
-
-renders as
-
-{{< icon name="python" >}} Python
-
-## Did you find this page helpful? Consider sharing it 🙌
+## Additional Resources
+- [Link 1]
+- [Link 2]
