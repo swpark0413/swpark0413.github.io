@@ -1,5 +1,5 @@
 ---
-title: '[2025-Fall] Bayesian Statistics'
+title: 'Bayesian Statistics'
 summary: 'Course for graduate students'
 date: 2023-10-24
 type: docs
