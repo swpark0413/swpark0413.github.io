@@ -1,7 +1,7 @@
 ---
 title: 'Bayesian Statistics'
 summary: 'Course for graduate students'
-date: 2025-08-28
+date: 2025-06-28
 type: docs
 math: false
 tags:
