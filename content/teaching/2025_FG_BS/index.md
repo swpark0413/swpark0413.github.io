@@ -9,7 +9,7 @@ tags:
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
-# Course Syllabus: [Course Title]
+## Course Syllabus
 **Instructor:** [Instructor Name]  
 **Email:** [Instructor Email]  
 **Semester:** [Semester / Year]  
@@ -18,12 +18,12 @@ image:
 
 ---
 
-## Course Description
+### Course Description
 A brief overview of the course, its objectives, and what students can expect to learn.
 
 ---
 
-## Learning Objectives
+### Learning Objectives
 By the end of the course, students will be able to:
 - Objective 1
 - Objective 2
@@ -32,13 +32,13 @@ By the end of the course, students will be able to:
 
 ---
 
-## Prerequisites
+### Prerequisites
 - Prerequisite 1
 - Prerequisite 2
 
 ---
 
-## Course Materials
+### Course Materials
 - **Required Textbook:**  
   [Title], [Author], [Edition], [Publisher]
 - **Recommended Reading:**  
@@ -47,7 +47,7 @@ By the end of the course, students will be able to:
 
 ---
 
-## Grading Policy
+### Grading Policy
 | Component            | Percentage |
 |----------------------|------------|
 | Attendance           | xx%        |
@@ -58,7 +58,7 @@ By the end of the course, students will be able to:
 
 ---
 
-## Weekly Schedule
+### Weekly Schedule
 
 | Week | Topic                         | Readings / Notes           |
 |------|-------------------------------|----------------------------|
@@ -70,14 +70,14 @@ By the end of the course, students will be able to:
 
 ---
 
-## Assignments
+### Assignments
 - **Assignment 1:** [Due Date], [Description]
 - **Assignment 2:** [Due Date], [Description]
 - ...
   
 ---
 
-## Policies
+### Policies
 - **Attendance:** [Policy details]
 - **Late Submission:** [Policy details]
 - **Academic Integrity:** [Policy details]
@@ -85,6 +85,6 @@ By the end of the course, students will be able to:
 
 ---
 
-## Additional Resources
+### Additional Resources
 - [Link 1]
 - [Link 2]
