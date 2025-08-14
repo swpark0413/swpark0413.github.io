@@ -11,10 +11,14 @@ image:
 ---
 ## Course Syllabus
 **Instructor:** Sewon Park  
+
 **Email:** swpark0413@sookmyung.ac.kr  
+
 **Semester:** Fall / 2025
+
 **Class Time & Location:** 13:00-15:50, 사회교육관 511
-**Office Hours:** [11:00-12:00 or by appointment]
+
+**Office Hours:** 11:00-12:00 or by appointment]
 
 ---
 
@@ -66,14 +70,14 @@ By the end of the course, students will be able to:
 | 3 | Prior Distribution | Ch. 4 |
 | 4 | Monte Carlo Methods | Ch. 5 |
 | 5 | The Normal Model | Ch. 6 |
-| 6 | Markov Chain Monte Carlo (MCMC) Methods I | Ch. 9 <br> *Oct. 8 substitute holiday — video lecture* |
+| 6 | Markov Chain Monte Carlo (MCMC) Methods I | Ch. 9  |
 | 7 | Markov Chain Monte Carlo (MCMC) Methods II | Ch. 9 |
-| 8 | Midterm Exam | Oct. 22 (Wed) 13:00–15:50 |
+| 8 | Midterm Exam | — |
 | 9 | Hamiltonian Monte Carlo (HMC), Probabilistic Programming | Ch. 9 |
 | 10 | Bayesian Optimization Methods | Ch. 10 |
 | 11 | Model Selection and Diagnostics | Ch. 11 |
 | 12 | Bayesian Linear Models | Ch. 12 |
-| 13 | Bayesian High-Dimensional Linear Regression Models  | - |
+| 13 | Bayesian High-Dimensional Linear Regression Models  | — |
 | 14 | Bayesian Hierarchical Models | Ch. 13 |
 | 15 | Final Project | — |
 
