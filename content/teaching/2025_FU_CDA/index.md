@@ -1,13 +1,13 @@
 ---
 title: 'Categorical Data Analysis'
 summary: 'Course for undergraduate students'
-date: 2023-10-24
+date: 2025-08-15
 type: docs
 math: false
 tags:
-  - JavaScript
+  - R
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: ''
 ---
 ## Course Syllabus
 **Instructor:** [Instructor Name]  
@@ -76,16 +76,4 @@ By the end of the course, students will be able to:
 - ...
   
 ---
-
-### Policies
-- **Attendance:** [Policy details]
-- **Late Submission:** [Policy details]
-- **Academic Integrity:** [Policy details]
-- **Disability Services:** [Information]
-
----
-
-### Additional Resources
-- [Link 1]
-- [Link 2] aaaa
 

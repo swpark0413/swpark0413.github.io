@@ -1,17 +1,17 @@
 ---
 title: 'Bayesian Statistics'
 summary: 'Course for graduate students'
-date: 2025-06-28
+date: 2025-08-15
 type: docs
 math: false
 tags:
   - Python
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: ''
 ---
 ## Course Syllabus
-**Instructor:** [Instructor Name]  
-**Email:** [Instructor Email]  
+**Instructor:** Sewon Park  
+**Email:** swpark0413@sookmyung.ac.kr  
 **Semester:** [Semester / Year]  
 **Class Time & Location:** [Time], [Location]  
 **Office Hours:** [Time or by appointment]
@@ -77,14 +77,3 @@ By the end of the course, students will be able to:
   
 ---
 
-### Policies
-- **Attendance:** [Policy details]
-- **Late Submission:** [Policy details]
-- **Academic Integrity:** [Policy details]
-- **Disability Services:** [Information]
-
----
-
-### Additional Resources
-- [Link 1]
-- [Link 2]
