@@ -10,10 +10,7 @@ sections:
   - block: collection
     id: section-1
     content:
-      title: Section 1
-      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      # Display content from the `content/post/` folder
+      title: Lectures
       filters:
         folders:
           - teaching

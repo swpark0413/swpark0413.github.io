@@ -1,5 +1,5 @@
 ---
-title: "Lévy Adaptive BSpline Regression via Overcomplete Systems"
+title: "Lévy Adaptive B-Spline Regression via Overcomplete Systems"
 authors:
 - admin
 - Kyeongwon Lee
