@@ -1,7 +1,7 @@
 ---
 title: 'Categorical Data Analysis'
 summary: 'Course for undergraduate students'
-date: 2025-08-15
+date: 2023-10-24
 type: docs
 math: false
 tags:
