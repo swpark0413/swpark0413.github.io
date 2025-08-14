@@ -18,7 +18,7 @@ image:
 
 **Class Time & Location:** Tuesdays & Thursdays, 16:30–17:45, Room B116, Changhak B
 
-**Office Hours:** 15:00-16:00 or by appointment
+**Office Hours:** Tuesdays, 15:00-16:00 or by appointment
 
 ---
 
