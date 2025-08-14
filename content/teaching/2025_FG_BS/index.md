@@ -16,9 +16,9 @@ image:
 
 **Semester:** Fall / 2025
 
-**Class Time & Location:** 13:00-15:50, 사회교육관 511
+**Class Time & Location:** 13:00-15:50, 사회교육관 511호
 
-**Office Hours:** 11:00-12:00 or by appointment]
+**Office Hours:** 11:00-12:00 or by appointment
 
 ---
 
