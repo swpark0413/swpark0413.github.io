@@ -7,7 +7,7 @@ math: false
 tags:
   - Python
 image:
-  caption: ''
+  caption: 'made by chatgpt'
 ---
 ## Course Syllabus
 **Instructor:** Sewon Park  

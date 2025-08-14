@@ -7,7 +7,7 @@ math: false
 tags:
   - R
 image:
-  caption: ''
+  caption: 'made by chatgpt'
 ---
 ## Course Syllabus
 **Instructor:** [Instructor Name]  
