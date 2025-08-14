@@ -16,7 +16,7 @@ image:
 
 **Semester:** Fall / 2025
 
-**Class Time & Location:** 13:00-15:50, 사회교육관 511호
+**Class Time & Location:** Wednesdays, 13:00–15:50, Room 511, Social Education Building
 
 **Office Hours:** 11:00-12:00 or by appointment
 
