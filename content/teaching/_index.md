@@ -10,7 +10,7 @@ sections:
   - block: collection
     id: section-1
     content:
-      title: Lectures
+      title: Teaching
       filters:
         folders:
           - teaching
