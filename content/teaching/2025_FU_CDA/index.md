@@ -10,9 +10,9 @@ image:
   caption: ''
 ---
 ## Course Syllabus
-**Instructor:** [Instructor Name]  
-**Email:** [Instructor Email]  
-**Semester:** [Semester / Year]  
+**Instructor:** Sewon Park  
+**Email:** swpark0413@sookmyung.ac.kr  
+**Semester:** Fall / 2025
 **Class Time & Location:** [Time], [Location]  
 **Office Hours:** [Time or by appointment]
 
