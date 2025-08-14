@@ -37,8 +37,8 @@ By the end of the course, students will be able to:
 ---
 
 ### Prerequisites
-- Prerequisite 1
-- Prerequisite 2
+- Mathematical Statistics I, II
+- Linear Regression
 
 ---
 
