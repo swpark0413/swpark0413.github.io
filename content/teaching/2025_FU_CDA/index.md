@@ -23,17 +23,13 @@ image:
 ---
 
 ### Course Description
-This course covers the fundamental theories and practical implementation methods of Bayesian statistics, introducing key concepts such as Bayes’ theorem, prior and posterior distributions, Markov chain Monte Carlo (MCMC), and Bayesian model selection. Along with theoretical understanding, students will develop the ability to apply Bayesian methods to real-world problems through data analysis exercises using Python.
+Categorical Data Analysis is a fundamental course in statistical data analysis, along with regression analysis. While regression analysis (and ANOVA) deals with continuous response variables, categorical data analysis focuses on discrete response variables (such as binary, multinomial, and count data), exploring various methodologies for their analysis.
 
 ---
 
 ### Learning Objectives
-By the end of the course, students will be able to:
-- Understand the principles of Bayes’ theorem and explain the roles of prior and posterior distributions.
-- Design Bayesian models, select appropriate prior distributions, and perform posterior inference.
-- Understand computational techniques such as MCMC and use them to estimate complex posterior distributions.
-- Implement Bayesian analysis using Python and apply it to real-world datasets.
-
+- To develop the ability to apply and interpret categorical data analysis techniques using R (or Python) through practical data analysis.
+- To build upon regression analysis by understanding and applying the framework of Generalized Linear Models (GLMs).
 ---
 
 ### Prerequisites
@@ -44,10 +40,10 @@ By the end of the course, students will be able to:
 
 ### Course Materials
 - **Textbook:**  
-  이재용 & 이기재, 베이즈 데이터 분석, 한국방송통신대학교출판문화원.
+  Alan Agresti 지음 | 박태성, 이승연 옮김, 범주형 자료분석 개론, 자유아카데미.
 - **Reference:**  
-  - Peter D. Hoff, A first Course in Bayesian Statistical Methods, Springer.
-  - Andrew Gelman, Bayesian Data Analysis, Chapman & Hall/CRC Texts in Statistical Science.
+  - 
+  - 
 
 ---
 
@@ -65,21 +61,21 @@ By the end of the course, students will be able to:
 
 | Week | Topic                         | Readings / Notes           |
 |------|-------------------------------|----------------------------|
-| 1 | Bayesian Inference | Ch. 1 |
-| 2 | Bayesian Hypothesis Testing | Ch. 3 |
-| 3 | Prior Distribution | Ch. 4 |
-| 4 | Monte Carlo Methods | Ch. 5 |
-| 5 | The Normal Model | Ch. 6 |
-| 6 | Markov Chain Monte Carlo (MCMC) Methods I | Ch. 9  |
-| 7 | Markov Chain Monte Carlo (MCMC) Methods II | Ch. 9 |
+| 1 | Introduction and Review | Ch. 1 |
+| 2 | Analyzing Contingency Tables I | Ch. 2 |
+| 3 | Analyzing Contingency Tables II | Ch. 2 |
+| 4 | Generalized Linear Models | Ch. 3 |
+| 5 | Logistic Regression | Ch. 4 & Ch. 5 |
+| 6 | Multicategory Logit Models I | Ch. 6  |
+| 7 | Multicategory Logit Models II | Ch. 6 |
 | 8 | Midterm Exam | — |
-| 9 | Hamiltonian Monte Carlo (HMC), Probabilistic Programming | Ch. 9 |
-| 10 | Bayesian Optimization Methods | Ch. 10 |
-| 11 | Model Selection and Diagnostics | Ch. 11 |
-| 12 | Bayesian Linear Models | Ch. 12 |
-| 13 | Bayesian High-Dimensional Linear Regression Models  | — |
-| 14 | Bayesian Hierarchical Models | Ch. 13 |
-| 15 | Final Project | — |
+| 9 | Analysis of Count Data: Poisson, Overdispersion, Negative Binomial | — |
+| 10 | Analysis of Count Data: Zero-Inflation & Log-Linear Models| —  |
+| 11 | Loglinear Models for Contingency Tables and Counts | Ch. 7 |
+| 12 | Models for Matched Pairs | Ch. 8 |
+| 13 | Generalized Estimating Equations (GEE)  |Ch. 9 |
+| 14 | Random Effects: Generalized Linear Mixed Models | Ch. 10 |
+| 15 | Final Exam | — |
 
 ---
 
