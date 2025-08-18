@@ -40,10 +40,11 @@ Categorical Data Analysis is a fundamental course in statistical data analysis, 
 
 ### Course Materials
 - **Textbook:**  
-  Alan Agresti 지음 | 박태성, 이승연 옮김, 범주형 자료분석 개론, 자유아카데미.
-- **Reference:**  
+  - Alan Agresti 지음 | 박태성, 이승연 옮김, 범주형 자료분석 개론, 자유아카데미.
+  - Alan Agresti, An introduction to categorical data analysis, Wiley
+<!-- - **Reference:**  
   - 
-  - 
+  -  -->
 
 ---
 
