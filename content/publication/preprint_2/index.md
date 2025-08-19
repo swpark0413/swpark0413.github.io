@@ -6,11 +6,11 @@ authors:
 - Seongmin Kim
 - Jaeyong Lee
 
-date: "2025-08-19T00:00:00Z"
+date: "2025-08-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-08-19T00:00:00Z"
+publishDate: "2025-08-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
