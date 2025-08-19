@@ -52,9 +52,9 @@ Categorical Data Analysis is a fundamental course in statistical data analysis, 
 | Component            | Percentage |
 |----------------------|------------|
 | Attendance           | 5%        |
-| Assignments          | 35%        |
-| Midterm Exam         | 40%        |
-| Final Report          | 20%        |
+| Assignments          | 20%        |
+| Midterm Exam         | 35%        |
+| Final Exam           | 40%        |
 
 ---
 
