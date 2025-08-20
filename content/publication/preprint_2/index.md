@@ -34,7 +34,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 'https://arxiv.org/abs/2505.20668'
+url_pdf: 'http://arxiv.org/abs/2412.10753'
 # url_code: 'https://github.com/swpark0413/besiw'
 url_dataset: ''
 url_poster: ''
