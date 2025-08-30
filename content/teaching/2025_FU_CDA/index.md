@@ -23,13 +23,18 @@ image:
 ---
 
 ### Course Description
-Categorical Data Analysis is a fundamental course in statistical data analysis, along with regression analysis. While regression analysis (and ANOVA) deals with continuous response variables, categorical data analysis focuses on discrete response variables (such as binary, multinomial, and count data), exploring various methodologies for their analysis.
+This course covers the fundamental theories and practical methods of categorical data analysis, which is a core subject in statistical data analysis alongside regression analysis. While regression analysis (and ANOVA) focuses on continuous response variables, categorical data analysis addresses discrete response variables such as binary, multinomial, and count data. We will learn a wide range of methodologies for analyzing categorical outcomes, with emphasis on both theoretical foundations and practical applications.
 
 ---
 
 ### Learning Objectives
-- To develop the ability to apply and interpret categorical data analysis techniques using R (or Python) through practical data analysis.
-- To build upon regression analysis by understanding and applying the framework of Generalized Linear Models (GLMs).
+By the end of the course, students will be able to:
+- Perform categorical data analyses using R (or Python) and interpret the results from real-world datasets.
+- Extend their knowledge of regression analysis to the framework of Generalized Linear Models (GLMs), with an emphasis on categorical response models.
+- Understand and compare methods for analyzing binary, multinomial, ordinal, and count data.
+- Evaluate model fit, interpret parameter estimates, and apply categorical data analysis techniques to practical data analysis problems.
+
+
 ---
 
 ### Prerequisites
