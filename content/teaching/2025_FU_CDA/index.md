@@ -85,9 +85,9 @@ By the end of the course, students will be able to:
 
 ---
 
-### Assignments
+<!-- ### Assignments
 - **Assignment 1:** [Due Date], [Description]
 - **Assignment 2:** [Due Date], [Description]
 - ...
-  
+   -->
 
