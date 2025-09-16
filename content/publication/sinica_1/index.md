@@ -2,9 +2,7 @@
 title: "Lévy Adaptive B-Spline Regression via Overcomplete Systems"
 authors:
 - admin
-- Kyeongwon Lee
-- Da-Eun Jeong
-- Heung-Kook Ko
+- Hee-Seok Oh
 - Jaeyong Lee
 author_notes:
 
