@@ -1,7 +1,7 @@
 ---
 title: 'Bayesian Statistics'
-summary: 'Course for graduate students'
-date: 2025-08-10
+summary: 'Course for undergraduate students'
+date: 2025-12-28
 type: docs
 math: false
 tags:
@@ -14,11 +14,11 @@ image:
 
 **Email:** swpark0413@sookmyung.ac.kr  
 
-**Semester:** Fall / 2025
+**Semester:** Spring / 2026
 
-**Class Time & Location:** Wednesdays, 13:00–15:50, Room 511, Social Education Building
+**Class Time & Location:** Monday & Wednesdays, 15:00–16:15, Room B116, Changhak B
 
-**Office Hours:** Wednesdays, 16:00-17:00 or by appointment
+**Office Hours:** Wednesdays, 14:00-14:50 or by appointment
 
 ---
 
@@ -38,6 +38,7 @@ By the end of the course, students will be able to:
 
 ### Prerequisites
 - Mathematical Statistics I, II
+- Linear Algebra
 - Linear Regression
 
 ---
@@ -55,9 +56,9 @@ By the end of the course, students will be able to:
 | Component            | Percentage |
 |----------------------|------------|
 | Attendance           | 5%        |
-| Assignments          | 35%        |
-| Midterm Exam         | 40%        |
-| Final Report          | 20%        |
+| Assignments          | 20%        |
+| Midterm Exam         | 35%        |
+| Final Exam           | 40%        |
 
 ---
 
