@@ -26,7 +26,8 @@ image:
 
 ## Course Description
 
-This course introduces fundamental tools and methodologies for big data analysis. Students will learn practical data processing, storage, and analysis techniques using Python, SQL, and distributed computing frameworks such as Apache Spark. Emphasis is placed on real-world data workflows, including data collection, preprocessing, large-scale analysis, and machine learning applications.
+This course introduces fundamental tools and methodologies for big data collection and processing. Building on prior knowledge of Python and statistics, students will learn practical data workflows using shell scripting, SQL, and distributed computing frameworks such as Apache Spark. Emphasis is placed on real-world applications including web crawling, text preprocessing, large-scale data analysis, and machine learning.
+
 
 ---
 
@@ -34,7 +35,8 @@ This course introduces fundamental tools and methodologies for big data analysis
 
 By the end of this course, students will be able to:
 
-- Understand the structure and characteristics of big data.
+- Independently collect and analyze large-scale data for their own research questions.
+- Communicate effectively with database professionals as a peer analyst.
 - Build data analysis environments using Python and Linux.
 - Perform data preprocessing and exploratory data analysis (EDA).
 - Use SQL databases for structured data manipulation.
@@ -42,15 +44,15 @@ By the end of this course, students will be able to:
 - Apply machine learning techniques to large-scale datasets.
 - Understand parallel and GPU-based computation concepts.
 
+
 ---
 
 ## Prerequisites
 
 Students are expected to have:
 
-- Basic Statistics Knowledge  
-- Introductory Programming Skills  
-- Familiarity with Python (recommended)  
+- Prior coursework in statistics (e.g., regression analysis, multivariate analysis)
+- Basic Python programming skills
 
 ---
 
@@ -62,20 +64,20 @@ Students are expected to have:
 
 **References**
 
-- Karau et al., *Learning Spark*
+- Jules Damji et al. (translated by Jong-young Park & Seong-su Lee), *Learning Spark*, 2nd ed., Jpub, 2022
 
 
 ---
 
 ## Grading Policy
 
-| Component        | Percentage |
-|------------------|------------|
-| Attendance       | 10%        |
-| Assignments      | 35%        |
-| Project 1        | 10%        |
-| Project 2        | 10%        |
-| Final Project    | 35%        |
+| Component      | Times | Percentage |
+|----------------|-------|------------|
+| Attendance     | —     | 10%        |
+| Assignments    | 7     | 35%        |
+| Project 1      | 1     | 10%        |
+| Project 2      | 1     | 10%        |
+| Final Project  | 1     | 35%        |
 
 ---
 
@@ -84,19 +86,19 @@ Students are expected to have:
 | Week | Topic |
 |------|-------|
 | 1 | Orientation |
-| 2 | Python & Linux Environment Setup |
-| 3 | Shell Scripting, NumPy & Pandas Basics |
-| 4 | Web Data Collection (Static & Dynamic Crawling) |
-| 5 | Open API Data Collection & Text Preprocessing |
+| 2 | Python & Linux Environment Setup; Understanding Linux/Unix |
+| 3 | Shell Scripting; NumPy & Pandas Basics |
+| 4 | Web Data Collection: Static & Dynamic HTML Crawling |
+| 5 | Open API Data Collection; Text Preprocessing & Regular Expressions |
 | 6 | MySQL Fundamentals |
 | 7 | MySQL Advanced: Table Joins |
-| 8 | Spark Fundamentals: Installation & Data I/O |
-| 9 | Spark SQL & DataFrames |
-| 10 | Spark Data Analysis: Preprocessing & EDA |
-| 11 | Spark Machine Learning |
+| 8 | Spark Fundamentals: Installation, Environment Setup, Data I/O |
+| 9 | Spark SQL: DataFrames & Distributed Queries |
+| 10 | Spark Analysis: Preprocessing, EDA & Visualization |
+| 11 | Spark Machine Learning: Supervised/Unsupervised & Evaluation |
 | 12 | Spark NLP & Text Analytics |
-| 13 | Kafka Fundamentals & Streaming Concepts |
-| 14 | PyTorch Basics & CPU vs GPU Computing |
-| 15 | Parallel Computing, DeepSpeed & Final Project Evaluation |
+| 13 | Kafka: Installation, Environment Setup & Structured Streaming |
+| 14 | PyTorch Basics; CPU vs GPU; Parallel Processing |
+| 15 | WandB & DeepSpeed Introduction; Final Project Evaluation |
 
 ---
