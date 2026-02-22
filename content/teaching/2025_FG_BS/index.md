@@ -66,21 +66,21 @@ By the end of the course, students will be able to:
 
 | Week | Topic                         | Readings / Notes           |
 |------|-------------------------------|----------------------------|
-| 1 | Bayesian Inference | Ch. 1 |
-| 2 | Bayesian Hypothesis Testing | Ch. 3 |
-| 3 | Prior Distribution | Ch. 4 |
-| 4 | Monte Carlo Methods | Ch. 5 |
+| 1 | Orientation & Introduction | - |
+| 2 | Bayesian Inference | Ch. 1 |
+| 3 | Bayesian Hypothesis Testing | Ch. 3 |
+| 4 | Prior Distribution | Ch. 4 |
 | 5 | The Normal Model | Ch. 6 |
-| 6 | Markov Chain Monte Carlo (MCMC) Methods I | Ch. 9  |
-| 7 | Markov Chain Monte Carlo (MCMC) Methods II | Ch. 9 |
+| 6 | Monte Carlo Methods | Ch. 5 |
+| 7 | Random Number Generation | Ch. 8 |
 | 8 | Midterm Exam | — |
-| 9 | Hamiltonian Monte Carlo (HMC), Probabilistic Programming | Ch. 9 |
-| 10 | Bayesian Optimization Methods | Ch. 10 |
-| 11 | Model Selection and Diagnostics | Ch. 11 |
-| 12 | Bayesian Linear Models | Ch. 12 |
-| 13 | Bayesian High-Dimensional Linear Regression Models  | — |
-| 14 | Bayesian Hierarchical Models | Ch. 13 |
-| 15 | Final Project | — |
+| 9 | Markov Chain Monte Carlo (MCMC) Methods I | Ch. 9  |
+| 10 | Markov Chain Monte Carlo (MCMC) Methods II | Ch. 9 |
+| 11 | Markov Chain Monte Carlo (MCMC) Methods III | Ch. 9 |
+| 12 | Probabilistic Programming | Ch. 9 |
+| 13 | Bayesian Linear Models I | Ch. 12 |
+| 14 | Bayesian Linear Models II | Ch. 12 |
+| 15 | Final Exam | — |
 
 ---
 
