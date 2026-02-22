@@ -1,93 +1,102 @@
 ---
-title: 'Categorical Data Analysis'
-summary: 'Course for undergraduate students'
-date: 2025-08-10
+title: "Big Data Statistical Analysis"
+summary: "Undergraduate Course Syllabus"
+date: 2026-03-01
 type: docs
 math: false
 tags:
-  - R
+  - Big Data
+  - Python
+  - Spark
+  - Data Analysis
 image:
-  caption: ''
+  caption: "Course Material"
 ---
+
 ## Course Syllabus
+
+**Course Title:** Big Data Statistical Analysis  
 **Instructor:** Sewon Park  
-
 **Email:** swpark0413@sookmyung.ac.kr  
-
-**Semester:** Fall / 2025
-
-**Class Time & Location:** Tuesdays & Thursdays, 16:30–17:45, Room B116, Changhak B
-
-**Office Hours:** Tuesdays, 14:30-15:30 or by appointment
+**Semester:** Spring 2026  
+**Class Time & Location:** Monday & Wednesday, 10:00–11:50, Room B116  
+**Office Hours:** Wednesday 13:00–14:00 or by appointment  
 
 ---
 
-### Course Description
-This course covers the fundamental theories and practical methods of categorical data analysis, which is a core subject in statistical data analysis alongside regression analysis. While regression analysis (and ANOVA) focuses on continuous response variables, categorical data analysis addresses discrete response variables such as binary, multinomial, and count data. We will learn a wide range of methodologies for analyzing categorical outcomes, with emphasis on both theoretical foundations and practical applications.
+## Course Description
+
+This course introduces fundamental tools and methodologies for big data analysis. Students will learn practical data processing, storage, and analysis techniques using Python, SQL, and distributed computing frameworks such as Apache Spark. Emphasis is placed on real-world data workflows, including data collection, preprocessing, large-scale analysis, and machine learning applications.
 
 ---
 
-### Learning Objectives
-By the end of the course, students will be able to:
-- Perform categorical data analyses using R (or Python) and interpret the results from real-world datasets.
-- Extend their knowledge of regression analysis to the framework of Generalized Linear Models (GLMs), with an emphasis on categorical response models.
-- Understand and compare methods for analyzing binary, multinomial, ordinal, and count data.
-- Evaluate model fit, interpret parameter estimates, and apply categorical data analysis techniques to practical data analysis problems.
+## Learning Objectives
+
+By the end of this course, students will be able to:
+
+- Understand the structure and characteristics of big data.
+- Build data analysis environments using Python and Linux.
+- Perform data preprocessing and exploratory data analysis (EDA).
+- Use SQL databases for structured data manipulation.
+- Conduct distributed data processing using Apache Spark.
+- Apply machine learning techniques to large-scale datasets.
+- Understand parallel and GPU-based computation concepts.
+
+---
+
+## Prerequisites
+
+Students are expected to have:
+
+- Basic Statistics Knowledge  
+- Introductory Programming Skills  
+- Familiarity with Python (recommended)  
+
+---
+
+## Course Materials
+
+**Textbook**
+
+- No required textbook. Lecture notes will be provided.
+
+**References**
+
+- Karau et al., *Learning Spark*
 
 
 ---
 
-### Prerequisites
-- Mathematical Statistics I, II
-- Linear Regression
+## Grading Policy
+
+| Component        | Percentage |
+|------------------|------------|
+| Attendance       | 10%        |
+| Assignments      | 35%        |
+| Project 1        | 10%        |
+| Project 2        | 10%        |
+| Final Project    | 35%        |
 
 ---
 
-### Course Materials
-- **Textbook:**  
-  - Alan Agresti 지음 | 박태성, 이승연 옮김, 범주형 자료분석 개론, 자유아카데미.
-  - Alan Agresti, An introduction to categorical data analysis, Wiley
-<!-- - **Reference:**  
-  - 
-  -  -->
+## Weekly Schedule
+
+| Week | Topic |
+|------|-------|
+| 1 | Orientation |
+| 2 | Python & Linux Environment Setup |
+| 3 | Shell Scripting, NumPy & Pandas Basics |
+| 4 | Web Data Collection (Static & Dynamic Crawling) |
+| 5 | Open API Data Collection & Text Preprocessing |
+| 6 | MySQL Fundamentals |
+| 7 | MySQL Advanced: Table Joins |
+| 8 | Spark Fundamentals: Installation & Data I/O |
+| 9 | Spark SQL & DataFrames |
+| 10 | Spark Data Analysis: Preprocessing & EDA |
+| 11 | Spark Machine Learning |
+| 12 | Spark NLP & Text Analytics |
+| 13 | Kafka Fundamentals & Streaming Concepts |
+| 14 | PyTorch Basics & CPU vs GPU Computing |
+| 15 | Parallel Computing, DeepSpeed & Final Project Evaluation |
 
 ---
-
-### Grading Policy
-| Component            | Percentage |
-|----------------------|------------|
-| Attendance           | 5%        |
-| Assignments          | 20%        |
-| Midterm Exam         | 35%        |
-| Final Exam           | 40%        |
-
----
-
-### Weekly Schedule
-
-| Week | Topic                         | Readings / Notes           |
-|------|-------------------------------|----------------------------|
-| 1 | Introduction and Review | Ch. 1 |
-| 2 | Analyzing Contingency Tables I | Ch. 2 |
-| 3 | Analyzing Contingency Tables II | Ch. 2 |
-| 4 | Generalized Linear Models | Ch. 3 |
-| 5 | Logistic Regression | Ch. 4 & Ch. 5 |
-| 6 | Multicategory Logit Models I | Ch. 6  |
-| 7 | Multicategory Logit Models II | Ch. 6 |
-| 8 | Midterm Exam | — |
-| 9 | Analysis of Count Data: Poisson, Overdispersion, Negative Binomial | — |
-| 10 | Analysis of Count Data: Zero-Inflation & Log-Linear Models| —  |
-| 11 | Loglinear Models for Contingency Tables and Counts | Ch. 7 |
-| 12 | Models for Matched Pairs | Ch. 8 |
-| 13 | Generalized Estimating Equations (GEE)  |Ch. 9 |
-| 14 | Random Effects: Generalized Linear Mixed Models | Ch. 10 |
-| 15 | Final Exam | — |
-
----
-
-<!-- ### Assignments
-- **Assignment 1:** [Due Date], [Description]
-- **Assignment 2:** [Due Date], [Description]
-- ...
-   -->
-
