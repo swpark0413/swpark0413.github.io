@@ -1,7 +1,7 @@
 ---
 title: "Big Data Statistical Analysis"
 summary: "Undergraduate Course Syllabus"
-date: 2026-03-01
+date: 2026-02-22
 type: docs
 math: false
 tags:
