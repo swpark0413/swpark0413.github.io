@@ -19,7 +19,7 @@ image:
 **Instructor:** Sewon Park  
 **Email:** swpark0413@sookmyung.ac.kr  
 **Semester:** Spring 2026  
-**Class Time & Location:** Monday & Wednesday, 10:00–11:50, Room B116  
+**Class Time & Location:** Monday & Wednesday, 10:00–11:50, Room B116, Changhak B
 **Office Hours:** Wednesday 13:00–14:00 or by appointment  
 
 ---
