@@ -16,17 +16,22 @@ image:
 ## Course Syllabus
 
 **Course Title:** Big Data Statistical Analysis  
+
 **Instructor:** Sewon Park  
+
 **Email:** swpark0413@sookmyung.ac.kr  
+
 **Semester:** Spring 2026  
+
 **Class Time & Location:** Monday & Wednesday, 10:00–11:50, Room B116, Changhak B
+
 **Office Hours:** Wednesday 13:00–14:00 or by appointment  
 
 ---
 
 ## Course Description
 
-This course introduces fundamental tools and methodologies for big data collection and processing. Building on prior knowledge of Python and statistics, students will learn practical data workflows using shell scripting, SQL, and distributed computing frameworks such as Apache Spark. Emphasis is placed on real-world applications including web crawling, text preprocessing, large-scale data analysis, and machine learning.
+This course introduces fundamental tools and methodologies for big data collection and processing. Building on prior knowledge of Python and statistics, students will learn practical data workflows using shell scripting, SQL, and distributed computing frameworks using Apache Spark. Emphasis is placed on real-world applications including web crawling, text preprocessing, large-scale data analysis, and machine learning.
 
 
 ---
@@ -38,12 +43,10 @@ By the end of this course, students will be able to:
 - Independently collect and analyze large-scale data for their own research questions.
 - Communicate effectively with database professionals as a peer analyst.
 - Build data analysis environments using Python and Linux.
-- Perform data preprocessing and exploratory data analysis (EDA).
 - Use SQL databases for structured data manipulation.
 - Conduct distributed data processing using Apache Spark.
 - Apply machine learning techniques to large-scale datasets.
 - Understand parallel and GPU-based computation concepts.
-
 
 ---
 
@@ -74,9 +77,9 @@ Students are expected to have:
 | Component      | Times | Percentage |
 |----------------|-------|------------|
 | Attendance     | —     | 10%        |
-| Assignments    | 7     | 35%        |
-| Project 1      | 1     | 10%        |
-| Project 2      | 1     | 10%        |
+| Assignments    | 5     | 25%        |
+| Project 1      | 1     | 15%        |
+| Project 2      | 1     | 15%        |
 | Final Project  | 1     | 35%        |
 
 ---
