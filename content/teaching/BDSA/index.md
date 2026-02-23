@@ -5,12 +5,10 @@ date: 2026-02-22
 type: docs
 math: false
 tags:
-  - Big Data
   - Python
   - Spark
-  - Data Analysis
 image:
-  caption: "Course Material"
+  caption: 'made by chatgpt'
 ---
 
 ## Course Syllabus
