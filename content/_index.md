@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: https://www.dropbox.com/scl/fi/3sdtvatsidzo2od1prh5h/CV.pdf?rlkey=5prrpdo1gc6afu58pae7ak64z&st=lmddx2n2&dl=0
     design:
       css_class: dark
       background:
