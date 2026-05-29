@@ -1,15 +1,16 @@
 ---
-title: "Posterior Contraction of Lévy Adaptive B-spline Regression in Besov Spaces (working paper)"
+title: "Bayesian analysis of spiked covariance models: correcting eigenvalue bias and determining the number of spikes (working paper)"
 authors:
-- Jeunghun Oh
-- admin
+- Kwangmin Lee
+- adminc
+- Seongmin Kim
 - Jaeyong Lee
 
-date: "2026-05-19T00:00:00Z"
+date: "2025-12-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-05-19T00:00:00Z"
+publishDate: "2025-08-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,7 +21,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: We investigate the asymptotic properties of the L´evy Adaptive B-spline (LABS) regression model, a Bayesian nonparametric method that incorporates B-spline kernels into the L´evy Adaptive Regression Kernel (LARK) model. LABS applies splines of varying degrees with independently defined knots, yielding a flexible model class capable of adapting to irregular and locally structured features of the true function. Within the nonparametric regression framework with univariate random design and Gaussian errors, we establish that the LABS posterior contracts around the true function in Besov classes at nearly minimax-optimal rates, up to a logarithmic factor, while adapting automatically to unknown smoothness. This study contributes to filling a gap in the literature, where theoretical results on posterior contraction of the LARK model in Besov spaces remain scarce. Simulation experiments on standard test functions in Besov spaces, including Blocks, Bumps, HeaviSine, and Doppler, complement the theoretical results and demonstrate the practical utility of LABS.
+abstract: "We study Bayesian inference in the spiked covariance model, where a small number of spiked eigenvalues dominate the spectrum. Our goal is to infer the spiked eigenvalues, their corresponding eigenvectors, and the number of spikes, providing a Bayesian solution to principal component analysis with uncertainty quantification. We place an inverse-Wishart prior on the covariance matrix to derive posterior distributions for the spiked eigenvalues and eigenvectors. Although posterior sampling is computationally efficient due to conjugacy, a bias may exist in the posterior eigenvalue estimates under high-dimensional settings. To address this, we propose two bias correction strategies: (i) a hyperparameter adjustment method, and (ii) a post-hoc multiplicative correction. For inferring the number of spikes, we develop a BIC-type approximation to the marginal likelihood and prove posterior consistency in the high-dimensional regime p > n. Furthermore, we establish concentration inequalities and posterior contraction rates for the leading eigenstructure, demonstrating minimax optimality for the spiked eigenvector in the single-spike case. Simulation studies and a real data application show that our method performs better than existing approaches in providing accurate quantification of uncertainty for both eigenstructure estimation and estimation of the number of spikes."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -33,7 +34,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: 'https://arxiv.org/pdf/2605.19610'
+url_pdf: 'http://arxiv.org/abs/2412.10753'
 # url_code: 'https://github.com/swpark0413/besiw'
 url_dataset: ''
 url_poster: ''
