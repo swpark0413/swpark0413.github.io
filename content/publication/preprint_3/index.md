@@ -1,5 +1,5 @@
 ---
-title: "Eigenstructure Inference for High-dimensional Covariance with Generalized Shrinkage Inverse-Wishart Prior (working paper)"
+title: "Eigenstructure Inference for High-dimensional Covariance with Generalized Shrinkage Inverse-Wishart Prior (under major revision)"
 authors:
 - Seongmin Kim
 - Kwangmin Lee
