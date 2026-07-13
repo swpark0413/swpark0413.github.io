@@ -48,8 +48,8 @@ profiles:
 
 interests:
   - Bayesian Statistics
-  - Synthetic Data Generation
-  - Anomaly Detection
+  - Dimension Reduction
+  - Missing Data Analysis
 
 # education:
 #   - area: PhD in Statistics
@@ -187,6 +187,5 @@ I am an Assistant Professor in the Department of Statistics at Sookmyung Womenâ€
 
 I received my Ph.D. in Statistics from Seoul National University under the supervision of Professor [Jaeyong Lee](https://jylee749.wordpress.com/). I earned my Bachelorâ€™s degree in Economics and Applied Statistics (double major) from Yonsei University.
 
-My research interests lie at the intersection of Bayesian statistics and deep learning, with a particular focus on modeling tabular and time-series data. I have expertise in nonparametric Bayesian methods, synthetic data generation, time-series anomaly detection, and missing data analysis. My current work focuses on high-dimensional statistical methods and dimension reduction techniques, particularly the envelope model.
-
+My research interests lie at the intersection of Bayesian statistics and deep learning, with a particular focus on modeling tabular and time-series data. I have expertise in nonparametric Bayesian methods, synthetic data generation, time-series anomaly detection, and missing data analysis. My current research focuses on developing deep learning approaches for missing data analysis, as well as methods for nonparametric regression and dimension reduction.
 
