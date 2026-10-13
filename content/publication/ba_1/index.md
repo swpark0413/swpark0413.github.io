@@ -1,5 +1,5 @@
 ---
-title: "Eigenstructure Inference for High-dimensional Covariance with Generalized Shrinkage Inverse-Wishart Prior (under major revision)"
+title: "Eigenstructure Inference for High-dimensional Covariance with Generalized Shrinkage Inverse-Wishart Prior"
 authors:
 - Seongmin Kim
 - Kwangmin Lee
@@ -18,7 +18,7 @@ publishDate: "2026-05-19T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Bayesian Analysis*"
 publication_short: ""
 
 abstract: "In multivariate statistics, estimating the covariance matrix is essential for understanding the dependence structure among variables. In high-dimensional settings, where the number of covariates increases with the sample size, it is well known that the sample covariance matrix becomes inconsistent. In particular, the largest sample eigenvalue tends to be substantially larger than the corresponding population eigenvalue, while the smallest sample eigenvalue tends to be substantially smaller than its population counterpart. This phenomenon has been widely recognized in the literature and is often described as the overdispersion of sample eigenvalues. The inverse-Wishart prior, a standard choice for Bayesian covariance estimation, also suffers from overdispersion in posterior eigenvalues. To address this issue in high-dimensional settings, the shrinkage inverse-Wishart (SIW) prior has recently been proposed. Despite its conceptual appeal and empirical success, however, the asymptotic justification for the SIW prior remains limited. In this paper, we propose a generalized shrinkage inverse-Wishart (gSIW) prior for high-dimensional covariance modeling. By extending the SIW framework, the gSIW prior accommodates a broader class of prior distributions and enables the derivation of theoretical properties under specific parameter choices. In particular, under the spiked covariance assumption, we establish the asymptotic behavior of the posterior distribution for both eigenvalues and eigenvectors by explicitly evaluating posterior expectations for two parameter settings. This explicit analysis provides insights into the large-sample behavior of the posterior that are difficult to obtain through general posterior asymptotic theory. Finally, simulation studies demonstrate that the proposed prior yields accurate estimation of the eigenstructure, particularly for spiked eigenvalues, while also providing competitive uncertainty quantification across a range of high-dimensional settings. For spiked eigenvectors, its performance is generally comparable to that of competing approaches, including the sample covariance estimator."
@@ -34,7 +34,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: 'https://arxiv.org/abs/2505.20668'
+url_pdf: 'https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Eigenstructure-Inference-for-High-Dimensional-Covariance-with-Generalized-Shrinkage-Inverse/10.1214/26-BA1624.full'
 url_code: 'https://github.com/swpark0413/besiw'
 url_dataset: ''
 url_poster: ''
