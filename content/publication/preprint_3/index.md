@@ -33,7 +33,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2108.11863'
 url_code: 'https://github.com/swpark0413/mlabs'
 url_dataset: ''
 url_poster: ''
